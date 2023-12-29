@@ -78,19 +78,19 @@ input:checked + label .description{
     transform: translate(0) !important;
 }
 .card[for="c1"] {
-    background-image:url(https://www.vecteezy.com/photo/29465561-ai-generated-ai-generative-couple-hug-each-other-at-night-with-light-glowing-romantic-love-valentines-day-relationships-background-graphic-art)
+    background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcartoon%2520wallpaper%2F&psig=AOvVaw0fWhcxz5_wUfckbJEh_ewI&ust=1703946044170000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjkp-nrtIMDFQAAAAAdAAAAABAD)
 }
 .card[for="c2"] {
-    background-image: url(https://media.istockphoto.com/id/1075997304/photo/heart-shape-with-a-male-and-female-hand-clear-blue-water-as-background-freedom-in-paradise.jpg?s=1024x1024&w=is&k=20&c=-24cyz-Wyz3q7w-YjZs0NLypxzQXZLETZtcCbgzH7vs=);
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fcartoon-mouse-wallpapers&psig=AOvVaw0fWhcxz5_wUfckbJEh_ewI&ust=1703946044170000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjkp-nrtIMDFQAAAAAdAAAAABAI);
 }
 .card[for="c3"] {
-    background-image: url(img/chibi-characters-two-hearts-with-heart_42136-249.avif);
-}
-.card[for="c4"] {
-    background-image: url(img/image4.jpg);
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fsearch%3Fq%3Dfunny%2Bmouse&psig=AOvVaw0fWhcxz5_wUfckbJEh_ewI&ust=1703946044170000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjkp-nrtIMDFQAAAAAdAAAAABAQ);
 }
 .card[for="c5"] {
-    background-image: url(img/image5.jpg);
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fcartoon-mouse-wallpapers&psig=AOvVaw0fWhcxz5_wUfckbJEh_ewI&ust=1703946044170000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjkp-nrtIMDFQAAAAAdAAAAABAX);
+}
+.card[for="c4"] {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_1yC0nGhyXgx7gfyUvnwftMlM_hGJS3q_AxOGt21C2FO1BdewZesxWg4SZ5NuT1b1gA&usqp=CAU);
 }
     
 
